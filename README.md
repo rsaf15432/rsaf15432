@@ -20,7 +20,7 @@
 
 ### 🔗 Connect with me:
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:rana.saif0131@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-link) <!-- Replace with your LinkedIn -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rana-saif-819572370) <!-- Replace with your LinkedIn -->
 
 ---
 
