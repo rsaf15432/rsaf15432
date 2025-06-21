@@ -7,7 +7,7 @@
 - 👀 I’m interested in building full-featured web applications  
 - 🌱 I’m currently learning advanced Laravel, Vue.js, and clean architecture  
 - 💞️ I’m looking to collaborate on open source Laravel and PHP projects  
-- 📫 How to reach me: **rana.dev15432@gmail.com**
+- 📫 How to reach me: **rana.saif0131@gmail.com**
 
 ---
 
@@ -19,7 +19,7 @@
 ---
 
 ### 🔗 Connect with me:
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:rana.dev15432@gmail.com)  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:rana.saif0131@gmail.com)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-link) <!-- Replace with your LinkedIn -->
 
 ---
